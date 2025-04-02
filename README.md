@@ -1,4 +1,4 @@
-# fff (*Fucking Fast File-Manager*)
+# fff (******** Fast File-Manager*)
 
 <a href="https://asciinema.org/a/qvNlrFrGB3xKZXb6GkremjZNp" target="_blank"><img src="https://asciinema.org/a/qvNlrFrGB3xKZXb6GkremjZNp.svg" alt="img" height="210px" align="right"/></a>
 
@@ -8,7 +8,7 @@ A simple file manager written in `bash`.
 <a href="https://github.com/dylanaraps/fff/releases"><img src="https://img.shields.io/github/release/dylanaraps/fff.svg"></a>
 <a href="https://repology.org/metapackage/fff"><img src="https://repology.org/badge/tiny-repos/fff.svg" alt="Packaging status"></a>
 
-- It's Fucking Fast 🚀
+- It's ******* Fast 🚀
 - Minimal (*only requires **bash** and coreutils*)
 - Smooth Scrolling (*using **vim** keybindings*)
 - Works on **Linux**, **BSD**, **macOS**, **Haiku** etc.
